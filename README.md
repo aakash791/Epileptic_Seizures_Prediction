@@ -1,2 +1,2 @@
-# Epileptic_Seizures_Prediction
+# Epileptic Seizures Prediction
 This repository contains experiments carried out during my research in the area of seizure prediction and detection  
