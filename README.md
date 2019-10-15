@@ -1,5 +1,5 @@
 # Epileptic Seizures Prediction
-This repository contains experiments carried out during my research in the area of seizure prediction and detection
+This repository contains experiments which were carried out during my research in the area of seizure prediction and detection
 
 Datasets Used:- Bonn EEG time series [1], CHB-MIT Scalp EEG Database [2]
 
